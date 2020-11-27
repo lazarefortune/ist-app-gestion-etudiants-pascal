@@ -1,5 +1,5 @@
 program gestionnaire;
-{Rédiger par TOSSOU KOMBILA Lazare Fortune}
+{RÃ©diger par Lazare Fortune}
 uses crt;
 
 type 
@@ -24,7 +24,7 @@ begin
 	repeat
 		writeln('ATTENTION si la BDD existe deja en cliquant (1)');
 		writeln('vous allez perdre vos donnees');
-		write('tapez (1) créer la BDD ou (2) Annuler  :');
+		write('tapez (1) crÃ©er la BDD ou (2) Annuler  :');
 		readln(choix3);
 	until (choix3=1) or (choix3=2);
 	if choix3=1 then
