@@ -1,5 +1,5 @@
 program gestionnaire;
-{Rédiger par TOSSOU KOMBILA Lazare Fortune}
+{Rédiger par Lazare Fortune}
 uses crt;
 
 type 
